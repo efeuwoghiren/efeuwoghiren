@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efeuwoghiren
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me efeuwoghiren@gmail.com
 
